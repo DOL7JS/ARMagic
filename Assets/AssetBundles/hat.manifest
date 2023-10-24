@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2014902252
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6fdf4071815b0207cb7cd13b7897e93c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b0a03dff241287b7e817ef7deb89bab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddedLibs/_BasicFaceFilter/Prefabs/Props_HiHat.prefab
+Dependencies: []

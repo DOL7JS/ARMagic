@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4039114309
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa97775e413d8b184a7a816bb7129c13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f36934beef6967a032e07563a480f501
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddedLibs/_BasicFaceFilter/Prefabs/cap.prefab
+Dependencies: []

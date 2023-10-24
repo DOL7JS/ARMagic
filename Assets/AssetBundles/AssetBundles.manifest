@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2779937122
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: horns
+      Dependencies: {}
+    Info_1:
+      Name: hat
+      Dependencies: {}
+    Info_2:
+      Name: eyes
+      Dependencies: {}
+    Info_3:
+      Name: cap
+      Dependencies: {}
+    Info_4:
+      Name: cap1
+      Dependencies: {}
+    Info_5:
+      Name: fir_tree
+      Dependencies: {}
+    Info_6:
+      Name: oak_tree
+      Dependencies: {}
+    Info_7:
+      Name: palm_tree
+      Dependencies: {}
+    Info_8:
+      Name: poplar_tree
+      Dependencies: {}
