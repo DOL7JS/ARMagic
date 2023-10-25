@@ -20,10 +20,14 @@ Whole setting process is described in thesis mentioned earlier. This will be jus
 6. Test connection to server
 7. Download models and have fun!
 
+
 # Sample data
 In folder [Sample folder](https://github.com/DOL7JS/ARMagic/tree/main/Sample_data) are markers, videos, configurations and models, that can be used in app. Of course you can use any other model or marker you want. Videos, models and configurations are on server meanwhile you have to have marker on your device storage.
 
-
+# Diagrams
+| Activity diagram  | Use case diagram |
+| ------------- | ------------- |
+![](https://github.com/DOL7JS/ARMagic/assets/53859920/9e26a345-6b24-42f6-8047-02905ef98c84)  |  ![](https://github.com/DOL7JS/ARMagic/assets/53859920/4b64cded-cfea-466b-a0df-4f2087772ee4)
 
 # Model converter
 For this app was also created app [Model converter](https://github.com/DOL7JS/ARMagic/tree/main/ModelConverter_app) for Windows. In this app you can set size, rotation and position of model, that will be added to scene in mobile app. You have to import model, set size, rotation, position and then export it to server or locally.
