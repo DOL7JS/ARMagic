@@ -1,5 +1,5 @@
 # ARMagic
-The application was created as a diploma thesis at the University of Pardubice. The application demonstrates the possibilities of augmented reality offered by ARCore technology. 
+The application was created as a diploma thesis at the University of Pardubice called [Vývoj ukázkové aplikace pro rozšířenou realitu](https://github.com/DOL7JS/ARMagic/blob/main/DolejsP_VyvojUkazkove_JP_2023.pdf) (Development of a sample application for augmented reality). The application demonstrates the possibilities of augmented reality offered by ARCore technology. 
 Along with the application, a custom data storage server was also designed and presented. This application is described in detail in the thesis: https://hdl.handle.net/10195/82362.
 
 This application is divided into four parts, each focusing on one of the possibilities of augmented reality. Due to the use of ARCore technology to work with augmented reality on the Android operating system, these options were limited compared to ARKit. Additionally, when using ARKit, it would be possible to perform object recognition or body recognition. The main capabilities that ARCore offers and have been used in the app include marker,
