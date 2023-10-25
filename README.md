@@ -29,9 +29,8 @@ In folder [Sample folder](https://github.com/DOL7JS/ARMagic/tree/main/Sample_dat
 For this app was also created app [Model converter](https://github.com/DOL7JS/ARMagic/tree/main/ModelConverter_app) for Windows. In this app you can set size, rotation and position of model, that will be added to scene in mobile app. You have to import model, set size, rotation, position and then export it to server or locally.
 This application is described in detail in the thesis.
 
-
 <p align="center">
-  <img src='https://github.com/DOL7JS/ARMagic/assets/53859920/24b1d4e0-6f51-492b-910f-7b320b48d817' width='600'>
+  <img src='https://github.com/DOL7JS/ARMagic/assets/53859920/2ae72d00-4373-40e8-94b6-1d25becb92dd' width='600'>
 </p>
 
 # App preview
